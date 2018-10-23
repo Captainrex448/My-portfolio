@@ -1,6 +1,0 @@
-<html>
-
-<body>
-  <h1>Hi my name is Varun Sharma<h1>
-
-<html>
